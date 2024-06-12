@@ -10,3 +10,5 @@ Scrapping Python File:
 -> Note: If the website is huge, for eg : it contains huge amount of page then i think it will take time to fetch email ids.
 
 
+Image
+(https://github.com/aryansanchiya/Scrapping/blob/master/Screenshot%20from%202024-06-12%2013-55-38.png)
