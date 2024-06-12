@@ -11,4 +11,4 @@ Scrapping Python File:
 
 
 Image
-!(https://github.com/aryansanchiya/Scrapping/blob/master/Screenshot%20from%202024-06-12%2013-55-38.png)
+!(Scrapping/Screenshot%20from%202024-06-12%2013-55-38.png)
