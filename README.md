@@ -6,3 +6,5 @@ Scrapping Python File:
    python -m pip install requests beautifulsoup4
 
 4) Ready to Go!
+
+-> Note: If the website is huge, for eg : it contains huge amount of page then i think it will take time to fetch email ids.
